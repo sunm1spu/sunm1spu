@@ -8,6 +8,9 @@
 ## Linkedin
 https://www.linkedin.com/in/michael-sun-047924250/
 
+## Resume
+https://1drv.ms/b/c/cae0937d22afe242/EdR2GzdYbPpMumyq1aCKKRkBykFlnG9YL3VJzHfBb0op2w?e=fkmFjv
+
 ### Featured Projects:
 ## ETC Backend
 https://github.com/tranleduyan/ETC-Backend
