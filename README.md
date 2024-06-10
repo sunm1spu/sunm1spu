@@ -5,6 +5,8 @@
 
 - I am comfortable with Java, C#, C++, Python, R, PHP, Js, HTML, and CSS.
 
+## Linkedin
+https://www.linkedin.com/in/michael-sun-047924250/
 
 ### Featured Projects:
 ## ETC Backend
