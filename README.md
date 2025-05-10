@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunm1spu
+- Hi, I’m @sunm1spu
 - I'm currently a senior Computer Science student at Seattle Pacific University.
-- 👀 I’m interested in machine learning, RFID technology, and fullstack engineering.
+- I’m interested in machine learning, RFID technology, and fullstack engineering.
 - 📫 How to reach me sunm1@spu.edu
 
 - I am comfortable with Java, C#, C++, Python, R, PHP, Js, HTML, and CSS.
