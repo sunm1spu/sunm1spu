@@ -9,7 +9,7 @@
 https://www.linkedin.com/in/michael-sun-047924250/
 
 ## Resume
-https://1drv.ms/b/c/cae0937d22afe242/EdR2GzdYbPpMumyq1aCKKRkBykFlnG9YL3VJzHfBb0op2w?e=fkmFjv
+https://drive.google.com/file/d/1hBeOR8vWzC_rP7NDZ9FLENEoiiv68csD/view?usp=sharing
 
 ### Featured Projects:
 ## ETC Backend
