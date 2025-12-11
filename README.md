@@ -11,7 +11,7 @@ https://www.linkedin.com/in/michael-sun-047924250/
 ## Resume
 https://drive.google.com/file/d/1hBeOR8vWzC_rP7NDZ9FLENEoiiv68csD/view?usp=sharing
 
-### Featured Projects:
+# Featured Projects:
 ## ETC Backend
 
 https://github.com/tranleduyan/ETC-Backend
@@ -34,3 +34,9 @@ https://github.com/sunm1spu/Dullahan
 sunm1spu/sunm1spu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Internet Protocol Stack Simulator
+https://github.com/sunm1spu/Internet-Protocol-Stack-Simulation-Assignment
+
+- This assignment was done in a group with my classmates Andrey Grebenik and Misha Averkin for a Computer Networks class.
+- We created a simulation of data being transferred across the internet by modeling the protocols at each layer in CPP.
