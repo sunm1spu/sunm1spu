@@ -20,8 +20,7 @@ https://github.com/tranleduyan/ETC-Backend
 
 ## ETC RFID Antenna Client
 https://github.com/sunm1spu/Dullahan
-
-![alt text](https://github.com/sunm1spu/sunm1spu/blob/main/scannerframe1.jpg "Picture of the final antenna setup")
+<img src="https://github.com/sunm1spu/sunm1spu/blob/main/scannerframe1.jpg" alt="drawing" width="200"/>
 
 - This repository is another component of the ETC system. It is the application that is the be run on a microprocessor connected to a UHF RFID antenna to serve as its reader so it can send and recieve requests from the backend.
 - I am solely responsible for this aspect of the project, which is basically a console application that utilizes the provided RFID antenna libraries provided by CNCEST.
