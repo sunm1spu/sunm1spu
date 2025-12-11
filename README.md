@@ -12,7 +12,7 @@
 ## ETC Backend
 https://github.com/tranleduyan/ETC-Backend
 
-<a href="https://www.youtube.com/watch?v=b27gZD-AcQw&feature=youtu.be">**CAPSTONE VIDEO DEMO**</a>
+<a href="https://www.youtube.com/watch?v=b27gZD-AcQw&feature=youtu.be"><p style="font-size: 32px;">CLICK FOR CAPSTONE VIDEO DEMO</p></a>
 
 <img src="https://github.com/sunm1spu/sunm1spu/blob/main/webpagedisplay.png" alt="drawing" width="400"/>
 - ETC is the senior capstone project that I and a team of four other students from SPU ECS developed over the course of nine months.
