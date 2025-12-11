@@ -42,4 +42,7 @@ https://github.com/sunm1spu/Internet-Protocol-Stack-Simulation-Assignment
 
 ## Internship at Vicino AI 2025
 https://vicino.ai/
+
+
+<img src="https://github.com/sunm1spu/sunm1spu/blob/main/vicinoimage1" alt="drawing" width="400"/>
 - I recently completed a QA and Frontend Development internship at Vicino AI. where I was in charge of creating integration and unit tests using ReactJS, Jest, and Cypress.
