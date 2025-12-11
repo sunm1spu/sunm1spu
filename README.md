@@ -10,7 +10,6 @@
 
 # Featured Projects and Experiences:
 ## ETC Backend
-
 https://github.com/tranleduyan/ETC-Backend
 
 <img src="https://github.com/sunm1spu/sunm1spu/blob/main/webpagedisplay.png" alt="drawing" width="400"/>
@@ -39,4 +38,5 @@ https://github.com/sunm1spu/Internet-Protocol-Stack-Simulation-Assignment
 - We created a simulation of data being transferred across the internet by modeling the protocols at each layer in CPP.
 
 ## Internship at Vicino AI 2025
+https://vicino.ai/
 - I recently completed a QA and Frontend Development internship at Vicino AI. where I was in charge of creating integration and unit tests using ReactJS, Jest, and Cypress.
