@@ -48,3 +48,4 @@ https://vicino.ai/
 <img src="https://github.com/sunm1spu/sunm1spu/blob/main/vicino1.png" alt="webpage render" width="400"/>
 
 - I recently completed a QA and Frontend Development internship at Vicino AI. where I was in charge of creating integration and unit tests using ReactJS, Jest, and Cypress.
+- Above is a link to our landing page 
