@@ -11,7 +11,7 @@ https://www.linkedin.com/in/michael-sun-047924250/
 ## Resume
 https://drive.google.com/file/d/1hBeOR8vWzC_rP7NDZ9FLENEoiiv68csD/view?usp=sharing
 
-# Featured Projects:
+# Featured Projects and Experiences:
 ## ETC Backend
 
 https://github.com/tranleduyan/ETC-Backend
@@ -40,3 +40,6 @@ https://github.com/sunm1spu/Internet-Protocol-Stack-Simulation-Assignment
 
 - This assignment was done in a group with my classmates Andrey Grebenik and Misha Averkin for a Computer Networks class.
 - We created a simulation of data being transferred across the internet by modeling the protocols at each layer in CPP.
+
+## Internship at Vicino AI 2025
+- I recently completed a QA and Frontend Development internship at Vicino AI. where I was in charge of creating integration and unit tests using ReactJS, Jest, and Cypress.
