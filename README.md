@@ -1,4 +1,4 @@
-Hi, I’m Michael Sun
+# Hi, I’m Michael Sun
 - I'm currently a senior Computer Science student at Seattle Pacific University (Expected Graduation Fall 2025).
 - I’m interested in machine learning, RFID technology, and fullstack engineering.
 - How to reach me msun17@hotmail.com
