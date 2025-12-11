@@ -38,6 +38,7 @@ https://github.com/sunm1spu/Internet-Protocol-Stack-Simulation-Assignment
 
 - This assignment was done in a group with my classmates Andrey Grebenik and Misha Averkin for a Computer Networks class.
 - We created a simulation of data being transferred across the internet by modeling the protocols at each layer in CPP.
+- My main role was implementing the application and transport layer logic
 
 ## Internship at Vicino AI 2025
 https://vicino.ai/
