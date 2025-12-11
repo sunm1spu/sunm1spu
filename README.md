@@ -1,9 +1,10 @@
-- Hi, I’m @sunm1spu
+Hi, I’m Michael Sun
 - I'm currently a senior Computer Science student at Seattle Pacific University (Expected Graduation Fall 2025).
 - I’m interested in machine learning, RFID technology, and fullstack engineering.
 - How to reach me msun17@hotmail.com
 
-- I am comfortable with Java, C#, C++, Python, R, PHP, Js, HTML, and CSS.
+- Languages: Java, C#, C++, Python, R, PHP, Js, Rust
+- Technologies: MongoDB, SQL, Jest, ReactJs, Cypress, NodeJs  
 
 ## Linkedin
 https://www.linkedin.com/in/michael-sun-047924250/
