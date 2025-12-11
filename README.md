@@ -11,7 +11,7 @@
 # Featured Projects and Experiences:
 ## ETC Backend
 https://github.com/tranleduyan/ETC-Backend
-
+https://www.youtube.com/watch?v=b27gZD-AcQw&feature=youtu.be
 <img src="https://github.com/sunm1spu/sunm1spu/blob/main/webpagedisplay.png" alt="drawing" width="400"/>
 - ETC is the senior capstone project that I and a team of four other students from SPU ECS developed over the course of nine months.
 - My primary roles were to help design how the entire system would work end-to-end from hardware to our backend, and how users could use our product. My contributions to this repository were the parts of the API that were to communicate with antennas or would deal with scans in any way.
