@@ -22,9 +22,9 @@ https://www.youtube.com/watch?v=b27gZD-AcQw&feature=youtu.be
 ## ETC RFID Antenna Client
 https://github.com/sunm1spu/Dullahan
 
-<img src="https://github.com/sunm1spu/sunm1spu/blob/main/scannerframe1.jpg" alt="drawing" width="400"/>
+<img src="https://github.com/sunm1spu/sunm1spu/blob/main/scannerframe1.jpg" alt="image of the frame upon which the antenna would be attached" width="400"/>
 
-- This repository is another component of the ETC system. It is the application that is the be run on a microprocessor connected to a UHF RFID antenna to serve as its reader so it can send and recieve requests from the backend.
+- This repository is another component of the ETC system. It is the application that is the be run on a microprocessor connected to a UHF RFID antenna to serve as its reader so it can send and recieve requests from the backend. The microprocessor and RFID antenna would then be mounted onto the frame shown above. 
 - I am solely responsible for this aspect of the project, which is basically a console application that utilizes the provided RFID antenna libraries provided by CNCEST.
 - Some particularly interesting aspects of this application were the issue of debouncing recent consecutive RFID tag scans and also assigning item scans to a user.
 
@@ -44,5 +44,6 @@ https://github.com/sunm1spu/Internet-Protocol-Stack-Simulation-Assignment
 https://vicino.ai/
 
 
-<img src="https://github.com/sunm1spu/sunm1spu/blob/main/vicino1" alt="drawing" width="400"/>
+<img src="https://github.com/sunm1spu/sunm1spu/blob/main/vicino1.png" alt="webpage render" width="400"/>
+
 - I recently completed a QA and Frontend Development internship at Vicino AI. where I was in charge of creating integration and unit tests using ReactJS, Jest, and Cypress.
