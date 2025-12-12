@@ -6,7 +6,7 @@
 - Languages: Java, C#, C++, Python, R, PHP, Js, Rust
 - Technologies: MongoDB, SQL, Jest, ReactJs, Cypress, NodeJs
 - **LinkedIn**: https://www.linkedin.com/in/msun17
-- **Resume**: https://drive.google.com/file/d/1hBeOR8vWzC_rP7NDZ9FLENEoiiv68csD/view?usp=sharing
+- **Resume**: [https://drive.google.com/file/d/1hBeOR8vWzC_rP7NDZ9FLENEoiiv68csD/view?usp=sharing](https://docs.google.com/document/d/10tDffILA42iJ6NSbaDn1sBW5JRcJ_487/edit?usp=sharing&ouid=113186088923969860717&rtpof=true&sd=true)
 
 # Featured Projects and Experiences:
 ## ETC Backend
